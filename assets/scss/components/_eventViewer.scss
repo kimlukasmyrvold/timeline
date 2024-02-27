@@ -42,15 +42,15 @@
                 width: 256px;
                 height: 144px;
 
+                cursor: pointer;
                 position: relative;
                 overflow: clip;
                 z-index: 1;
                 transition: box-shadow .3s ease, width .3s ease, scale .3s ease;
 
                 &:hover {
-
-                    scale: 1.1;
-                    box-shadow: 0 0 40px var(--primary);
+                    scale: 1.025;
+                    box-shadow: 0 0 40px hsl(0 0% 50% / .5);
                 }
 
                 img {

@@ -104,7 +104,7 @@ function checkImageExists(url, callback) {
 
 function addImagesToEventViewer(container, data) {
     container.innerHTML = "";
-    
+
     for (const key in data) {
         const imageUrl = `./assets/images/sami/${data[key]}`;
 
@@ -116,6 +116,8 @@ function addImagesToEventViewer(container, data) {
                 const img = document.createElement("img");
                 img.src = imageUrl;
 
+                imgContainer.addEventListener("click", OpenImageModal);
+
                 imgContainer.append(img);
                 container.append(imgContainer);
             } else {
@@ -123,6 +125,28 @@ function addImagesToEventViewer(container, data) {
             }
         });
     }
+}
+
+
+
+function OpenImageModal(e) {
+    const ImageModal = document.querySelector("#expandedImageModal");
+    ImageModal.classList.add("open");
+
+    const image = ImageModal.querySelector(".image img");
+    image.src = e.target.querySelector("img").getAttribute("src");
+
+    document.addEventListener("keydown", temp);
+
+    function temp(e) {
+        if (e.key === "Escape") CloseImageModal();
+        document.removeEventListener("keydown", temp);
+    }
+}
+
+function CloseImageModal() {
+    const ImageModal = document.querySelector("#expandedImageModal");
+    ImageModal.classList.remove("open");
 }
 
 
@@ -150,6 +174,7 @@ function scrollToTopInit() {
 
 
 window.onload = () => {
+    document.querySelector('#expandedImageModal .close').addEventListener("click", CloseImageModal);
     document.querySelector("#footer .copyright .time").textContent = new Date().getFullYear();
     scrollToTopInit();
 

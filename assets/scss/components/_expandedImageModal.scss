@@ -1,0 +1,77 @@
+@use "../abstracts/" as *;
+
+#expandedImageModal {
+    position: relative;
+    z-index: -1;
+
+    display: flex;
+    position: fixed;
+    inset: 0;
+    transition: background-color .3s ease, backdrop-filter .3s ease;
+
+    &.open {
+        background-color: hsl(0 0% 0% / .15);
+        backdrop-filter: blur(10px);
+        z-index: 999;
+
+        .container {
+            translate: 0;
+        }
+    }
+
+    .container {
+        position: relative;
+        border-radius: 10px;
+
+        display: flex;
+        flex: 1;
+
+        margin: var(--spacing-inline);
+        background-color: var(--bg);
+
+        translate: 0 200%;
+        transition: translate .3s ease;
+
+        .close {
+            $_offset: 10px;
+
+            position: absolute;
+            top: $_offset;
+            right: $_offset;
+
+            width: 2em;
+            cursor: pointer;
+
+            &:hover {
+                animation: shake .2s ease;
+            }
+
+            svg {
+                width: 100%;
+            }
+        }
+
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex: 1;
+
+            border-radius: inherit;
+            background-color: var(--text5);
+            padding: 2.5em calc(var(--spacing-inline) / 2);
+
+            .image {
+                display: flex;
+                border-radius: inherit;
+                height: 100%;
+
+                img {
+                    margin: auto;
+                    max-height: 100%;
+                }
+            }
+        }
+
+    }
+}

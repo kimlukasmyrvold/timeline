@@ -61,9 +61,11 @@ svg {
     background-size: cover;
 
     shape-margin: 1rem;
+    border-radius: inherit;
 
     max-width: 100%;
     height: auto;
+
     vertical-align: middle;
     align-self: flex-start;
 }
