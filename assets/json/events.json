@@ -1,8 +1,8 @@
 [
     {
-        "StartTime": 1850,
-        "EndTime": 1870,
-        "Name": "Overgangsfasen",
+        "StartTime": 1851,
+        "EndTime": 1851,
+        "Name": "Finnefondet etablert",
         "Description": "1851 ble Finnefondet etablert i stortinget for og finansielt støtte fornorskningen av samene.",
         "Images": [
             "th-4234224032.jpg",
@@ -10,18 +10,18 @@
         ]
     },
     {
-        "StartTime": 1850,
-        "EndTime": 1870,
-        "Name": "Overgangsfasen",
+        "StartTime": 1852,
+        "EndTime": 1852,
+        "Name": "Grensen stenges",
         "Description": "1852 Grensen mellom Norge og Finland stenges for reindrift.",
         "Images": [
             "dbe18bf1-50cc-436d-9d23-8709fd343d1a.jpg"
         ]
     },
     {
-        "StartTime": 1850,
-        "EndTime": 1870,
-        "Name": "Overgangsfasen",
+        "StartTime": 1862,
+        "EndTime": 1862,
+        "Name": "Skoleloven strammet",
         "Description": "1862 strammet skoleloven inn muligheten til samisk på skolen.",
         "Images": [
             "sp4b1d79-2061515713.jpg",
@@ -30,12 +30,267 @@
         ]
     },
     {
-        "StartTime": 1850,
-        "EndTime": 1870,
-        "Name": "Overgangsfasen",
+        "StartTime": 1868,
+        "EndTime": 1868,
+        "Name": "Kvener i Finnefondet",
         "Description": "1868 ble kvener også inkludert i Finnefondets formål om fornorskning.",
         "Images": [
             "samisk-migration-1338673512.png"
+        ]
+    },
+
+
+
+    {
+        "StartTime": 1898,
+        "EndTime": 1898,
+        "Name": "Wexelsenplakaten innført",
+        "Description": "Skoleinstruksen av 1898, kjent som Wexelsenplakaten, ble innført. Den forbød samer og kvener å arbeide som lærere i språkblandede skoler. Instruksen reduserte muligheten for bruken av finsk og samisk i undervisningen og påla tilsyn med samiske og kvenske barn i friminuttene.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1898,
+        "EndTime": 1898,
+        "Name": "Finnefondets rammer fordobler",
+        "Description": "I 1898 ble Finnefondets rammer fordoblet, og mange norske lærere ble økonomisk avhengige av å dokumentere sin fornorskningsiver for å motta tilskudd fra fondet.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1901,
+        "EndTime": 1901,
+        "Name": "Midler til internatskoler",
+        "Description": "I 1901 ble det for første bevilget offentlige midler til statlige internatskoler for samer og kvener. Finnefondet bidro til ytterligere finansiering av internatskolene, som hadde som begrunnelse 'kulturelt grensevern'.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1905,
+        "EndTime": 1905,
+        "Name": "Unionen oppløses",
+        "Description": "I 1905 ble unionen mellom Norge og Sverige oppløses. Et mål for Norge å bli kvitt de svenske samenes reinbeiterett.",
+        "Images": [
+
+        ]
+    },
+
+
+
+    {
+        "StartTime": 1917,
+        "EndTime": 1917,
+        "Name": "Finland selvstendig",
+        "Description": "I 1917 blir Finland en selvstendig stat",
+        "Images": [
+            
+        ]
+    },
+    {
+        "StartTime": "6. feb 1917",
+        "EndTime": "6. feb 1917",
+        "Name": "Første samiske landsmøtet",
+        "Description": "Den 6. februar 1917 blir det første samiske landsmøtet holdt. To sørsamer, Elsa Laula Renberg og Daniel Mortensen var sentrale samiske skikkelser i forberedelsene til dette, med god hjelp fra norske som støttet samenes sak. Språk, kultur, næring og rettigheter var de viktige temaene på møtet.",
+        "Images": [
+           
+        ]
+    },
+    {
+        "StartTime": 1919,
+        "EndTime": 1919,
+        "Name": "Reinbeitekonvensjonen",
+        "Description": "I 1919 blir det enighet om den første reinbeitekonvensjonen mellom Norge og Sverige.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1920,
+        "EndTime": 1929,
+        "Name": "Skallemålingenes tid",
+        "Description": "1920 til 1929 var skallemålingenes tid. Blant annet ble kirkegårder i samiske distrikter gravd opp. Samer som protesterte ble betegnet som latterlig overtroiske.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1940,
+        "EndTime": 1940,
+        "Name": "Nasjonal Samling",
+        "Description": "I 1940 ble de norske nazistene - Nasjonal Samling (NS) - av den tyske okkupasjonsmakten innsatt til å styre Norge. Under nedbrenningen av Finnmark var samene lavest prioritert under deporteringen til sørligere deler av landet.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1944,
+        "EndTime": 1944,
+        "Name": "Østsamer flytter tilbake",
+        "Description": "I 1944 flytter mange østsamer tilbake, Sovjetunionen tar tilbake Ishavskorridoren og 1826-grensen blir igjen grense mot Russland.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1947,
+        "EndTime": 1947,
+        "Name": "Norske Reindriftssamers Landsforbund",
+        "Description": "1947 blir den Norske Reindriftssamers Landsforbund dannet.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1948,
+        "EndTime": 1948,
+        "Name": "Samisk selskap dannet",
+        "Description": "I 1948 dannes det Samisk selskap i Oslo.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1949,
+        "EndTime": 1949,
+        "Name": "Revidert reinbeitekonvensjon",
+        "Description": "I 1949 blir det enighet om en revidert reinbeitekonvensjon mellom Sverige og Norge. Ingen vesentlige endringer forekommer.",
+        "Images": [
+
+        ]
+    },
+
+
+
+    {
+        "StartTime": 1953,
+        "EndTime": 1953,
+        "Name": "Første lederen i Samisk råd",
+        "Description": "En av de ledende kreftene i det samiske revitaliseringsarbeidet i etterkrigstiden var Per Fokstad. Fokstad ble nå også den første lederen i Samisk råd for Finnmark i 1953.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1956,
+        "EndTime": 1956,
+        "Name": "Nedsettelsen av Samekomiteen",
+        "Description": "Et tegn på at den kulturpolitiske stemningen var i ferd med å snu til det mer positive, fikk man gjennom nedsettelsen av Samekomiteen i 1956. Forkjemper for det samiske, Per Fokstad, ble også valgt som medlem.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1963,
+        "EndTime": 1963,
+        "Name": "Stortinget behandler Samekomiteens forslag",
+        "Description": "Stortinget behandlet Samekomiteens forslag i 1963. Selv om mange av disse var nedtont, viste innstillingen i Stortinget likevel en vilje til brudd med assimilasjonslinjen fra andre halvdel av 1800-tallet.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1967,
+        "EndTime": 1967,
+        "Name": "Samisk undervisning",
+        "Description": "I 1967 ble det for første gang på om lag hundre år gitt undervisning på samisk som førstespråk.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1968,
+        "EndTime": 1968,
+        "Name": "Norske Samers Riksforbund dannes",
+        "Description": "I 1968 dannes det Norske Samers Riksforbund (NSR) bidro til en mye sterkere artikulering av samiske kultur- og rettighetskrav.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1972,
+        "EndTime": 1972,
+        "Name": "Nye reinbeitekonvensjoner",
+        "Description": "I 1972 blir det nye reinbeitekonvensjoner som gir svært betydelige innskrenkninger for de svenske samenes sommerbeite i Norge.",
+        "Images": [
+
+        ]
+    },
+
+
+
+    {
+        "StartTime": 1989,
+        "EndTime": 1989,
+        "Name": "Sametinget blir dannet",
+        "Description": "Sametinget blir dannet. Første valg ble avholdt sammen med stortingsvalget i 1989, og Sametinget ble offisielt åpnet av kong Olav 9. oktober 1989.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1990,
+        "EndTime": 1990,
+        "Name": "Ratifiserte ILO-konvensjon",
+        "Description": "Norge var det første landet som ratifiserte ILO-konvensjon nr. 169 om urbefolkninger og stammefolk i selvstendige stater.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1992,
+        "EndTime": 1992,
+        "Name": "Samisk språklov",
+        "Description": "I 1992 trår den samisk språklov i funksjon.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1993,
+        "EndTime": 1993,
+        "Name": "Svenske sametinget",
+        "Description": "I 1993 ble det svenske sametinget etablert for å forbedre de svenske samenes muligheter som urfolk til å bevare og utvikle sin kultur.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 1996,
+        "EndTime": 1996,
+        "Name": "Finsk sameting",
+        "Description": "I 1996 blir det dannet et finsk sametinget, og det velges inn 21 representanter.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": "2. mars 2000",
+        "EndTime": "2. mars 2000",
+        "Name": "Samisk råd etablert",
+        "Description": "Den 2. mars 2000 blir det samisk parlamentarisk råd etablert",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": 2005,
+        "EndTime": 2005,
+        "Name": "",
+        "Description": "I 2005 ble Norge og Sverige ikke enige om en ny reinbeitekonvensjon, og det er fortsatt en pågående disputt om Lappekodisillens anvendbarhet på den grenseoverskridende reindriften.",
+        "Images": [
+
+        ]
+    },
+    {
+        "StartTime": "Nå",
+        "EndTime": "Nå",
+        "Name": "Nåtid",
+        "Description": "Fordommer og etnisk baserte konflikter finner fortsatt sted.",
+        "Images": [
+
         ]
     }
 ]
