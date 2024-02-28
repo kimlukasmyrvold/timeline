@@ -1,9 +1,22 @@
 @use "../abstracts/" as *;
 @use "../base/" as *;
 
-.hero {
+#hero {
     .title {
+        display: flex;
+    }
+    
+    p {
         font-size: $h3;
         margin: 0;
+
+        background-image: url("../images/sami_flag.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 }

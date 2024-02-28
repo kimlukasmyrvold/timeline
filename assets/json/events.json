@@ -285,6 +285,15 @@
         ]
     },
     {
+        "StartTime": 2010,
+        "EndTime": "Nå",
+        "Name": "Fosen-saken",
+        "Description": "Fosen-saken er en konflikt som handler om to vindkraftverk på Fosen i Trøndelag og reindriftssamers rettigheter. Den startet i 2010 hvor Norges Vassdrags- og energidirektorat tillatelse til bygge to store vindkraftutbygginer på Fosen, Storheia og Roand vindkraft. I 2021 så ble saken behandlet i Høyesterett på grunn av klager fra Nord-Fosen siida og Sør-Fosen sijte. Konflikten går fortsatt.",
+        "Images": [
+            "article_topimage_fosen-reinsdyr-vindmoller.jpg"
+        ]
+    },
+    {
         "StartTime": "Nå",
         "EndTime": "Nå",
         "Name": "Nåtid",
